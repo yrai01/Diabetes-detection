@@ -1,1 +1,1 @@
-# Diabetes-detection
+# Diabetes_detection
